@@ -26,11 +26,11 @@
 
 #### Interface <br/>
 
-<img src="SS1.png" alt="interface_img" style="height: 250px; width: 550px"/> <br>
+<img src="/SS1.png" alt="interface_img" style="height: 250px; width: 550px"/> <br>
 
 ### Result
 
-<img src="SS2.png" alt="result_img" style="height: 550px; width: 450px"/> <br/>
+<img src="/SS2.png" alt="result_img" style="height: 550px; width: 450px"/> <br/>
 
 ## 🚀 Performance <hr/>
 
