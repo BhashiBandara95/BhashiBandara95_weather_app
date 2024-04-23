@@ -2,7 +2,7 @@
 
 **Weather App** is used to find the weather conditions including **Temperature, Humidity, and wind speed** of the particular city. <hr/>
 
-**[Visit to Live Server]()**
+**[Visit to Live Server](https://bhashibandara95.github.io/BhashiBandara95_weather_app/)**
 <br>
 
 #### 🎥 Simple demo
